@@ -42,6 +42,10 @@ img {
   /* justify-content: center; */
 }
 
+.ingredients-steps-el > * {
+  width: 50%;
+}
+
 .recommendations-el > ul > li > a {
   color: whitesmoke;
 }
